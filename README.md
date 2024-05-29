@@ -4,7 +4,7 @@
 
 # Preview of the App
 
-![preview](/assets/images/tux.png)
+![preview](Social-Links-Page.png)
 
 # Description
     Frontend Mentor challenge
